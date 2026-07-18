@@ -238,6 +238,7 @@ markers:
   - {type: line-break, offset: 149, content: '', id: KR5c0054_HFL_003-003a01}
   - {type: indent, offset: 149, content: 　　　, id: KR5c0054_HFL_003-bkkind27}
   - {type: punctuation, offset: 152, content: (, id: KR5c0054_HFL_003-bkkpn35}
+  - {type: 'voice:problem', offset: 152, length: 164, id: KR5c0054_HFL_003-bkkvprob1, source: parens, bucket: body, code: expected-close, message: 'expected '')'' after ''('' at offset 152, got ''('' at offset 316'}
   - {type: punctuation, offset: 156, content: ), id: KR5c0054_HFL_003-bkkpn36}
   - {type: 'kr:newline', offset: 156, content: '
 
@@ -3373,4 +3374,4 @@ markers:
 
       ', id: KR5c0054_HFL_003-bkkkrnewl792}
   back: []
-hash: sha256:f2f1b8119cdb03a004f8fc0d8616f1fcfa49125f59dea48f41fb6774cfd69e45
+hash: sha256:791467a92af578f126422f1135cd1b4d3ac1b1323ccf1453b89f479f528741e1
